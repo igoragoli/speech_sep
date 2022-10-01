@@ -13,7 +13,7 @@ The [SepFormer](https://huggingface.co/speechbrain/sepformer-wsj02mix) model was
 * [Presentation](https://drive.google.com/file/d/1gt1x0pH34tnB_67X9mv1_4DvyoT65NEy/view?usp=sharing)
 * [Speech separation audio results](https://drive.google.com/drive/folders/1p1Jg9Nxmfs9RRPvQZMv0aN4Gs3KYdPfg?usp=sharing)
 
-## Jupyter notebooks
+## Jupyter Notebooks
 * `example_separation_ff.ipynb`: Source separation on female-female speaker pairs.
 * `example_separation_mf.ipynb`: Source separation on male-female speaker pairs.
 * `example_separation_ff.ipynb`: Source separation on male-male speaker pairs.
