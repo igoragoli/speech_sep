@@ -6,7 +6,7 @@ A source separation problem was posed by Orange. In the given problem, assistant
 
 **"Given a mixed signal constructed from two different sources, find the best estimate of the original sources."**
 
-The [SepFormer](https://huggingface.co/speechbrain/sepformer-wsj02mix)) model was applied in a custom-made french speech corpus based on [BREF-80](https://catalogue.elra.info/en-us/repository/browse/ELRA-S0006/).
+The [SepFormer](https://huggingface.co/speechbrain/sepformer-wsj02mix) model was applied in a custom-made french speech corpus based on [BREF-80](https://catalogue.elra.info/en-us/repository/browse/ELRA-S0006/).
 
 ## Project Documents
 * [Report](https://drive.google.com/file/d/1LE_m809DNKHvy86LSFxcnRmGVN52tXtP/view?usp=sharing)
