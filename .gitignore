@@ -1,0 +1,7 @@
+data
+.ipynb_checkpoints
+speechbrain
+speech_venv
+pretrained_models
+results
+model_validation_mf
